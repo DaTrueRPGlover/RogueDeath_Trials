@@ -1,0 +1,183 @@
+[
+    {
+      "id": "trapper",
+      "name": "The Trapper",
+      "tier": "d",
+      "perks": ["unnerving", "brutal", "agi"],
+      "type": "m1",
+      "banned": false,
+      "unlocked": false,
+      "alive": true
+    },
+    {
+      "id": "wraith",
+      "name": "The Wraith",
+      "tier": "c",
+      "perks": ["predator", "bloodhound", "shadowborn"],
+      "type": "m1",
+      "banned": false,
+      "unlocked": false,
+      "alive": true
+    },
+    {
+        "id": "billy",
+        "name": "The Hillbilly",
+        "tier": "a",
+        "perks": ["enduring", "lightborn", "tinkerer"],
+        "type": "power",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "nurse",
+        "name": "The Nurse",
+        "tier": "ss",
+        "perks": ["stridor", "thana", "nurses"],
+        "type": "power",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "clown",
+        "name": "The Clown",
+        "tier": "c",
+        "perks": ["bamboozle", "coulrophobia", "pop"],
+        "type": "m1",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "hag",
+        "name": "The Hag",
+        "tier": "b",
+        "perks": ["thirdseal", "ruin", "devour"],
+        "type": "power",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "doctor",
+        "name": "The Doctor",
+        "tier": "c",
+        "perks": ["overwhelming", "monitor", "overcharge"],
+        "type": "m1",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "huntress",
+        "name": "The Huntress",
+        "tier": "b",
+        "perks": ["beast", "territorial", "lullaby"],
+        "type": "range",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "spirit",
+        "name": "The Spirit",
+        "tier": "s",
+        "perks": ["spirit", "haunted", "rancor"],
+        "type": "power",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "legion",
+        "name": "The Legion",
+        "tier": "d",
+        "perks": ["discordance", "madgrit", "ironmaiden"],
+        "type": "m1",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "plague",
+        "name": "The Plague",
+        "tier": "a",
+        "perks": ["corrupt", "infectious", "darkdevotion"],
+        "type": "m1",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "oni",
+        "name": "The Oni",
+        "tier": "a",
+        "perks": ["zanshin", "bloodecho", "nemesis"],
+        "type": "power",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "deadslinger",
+        "name": "The Deadslinger",
+        "tier": "b",
+        "perks": ["gearhead", "deadmans", "retribution"],
+        "type": "range",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "blight",
+        "name": "The Blight",
+        "tier": "ss",
+        "perks": ["dragons", "bloodfavor", "undying"],
+        "type": "power",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "twins",
+        "name": "The Twins",
+        "tier": "s",
+        "perks": ["hoarder", "oppression", "coup"],
+        "type": "power",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "trickster",
+        "name": "The Trickster",
+        "tier": "c",
+        "perks": ["starstruck", "crowdcontrol", "nowayout"],
+        "type": "range",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "artist",
+        "name": "The Artist",
+        "tier": "a",
+        "perks": ["grim", "painres", "penti"],
+        "type": "range",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    },
+    {
+        "id": "dredge",
+        "name": "The Dredge",
+        "tier": "b",
+        "perks": ["darkness", "dissolution", "septic"],
+        "type": "m1",
+        "banned": false,
+        "unlocked": false,
+        "alive": true
+    }
+  ]
+  
