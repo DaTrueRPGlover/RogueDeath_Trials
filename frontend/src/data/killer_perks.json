@@ -592,6 +592,149 @@
       "unlocked": false,
       "usable": false,
       "combo": []
+    },
+    {
+      "id": "murmur",  
+      "name": "Bitter Murmur",
+      "killer": "global",
+      "tier": "b",
+      "type": ["info", "aura"],
+      "banned": false,
+      "unlocked": false,
+      "usable": false,
+      "combo": []
+    },
+    {
+        "id": "deerstalker",  
+        "name": "Deerstalker",
+        "killer": "global",
+        "tier": "b",
+        "type": ["info", "aura"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "distressing",  
+        "name": "Distressing",
+        "killer": "global",
+        "tier": "b",
+        "type": ["chase"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "noed",  
+        "name": "Hex: No One Escapes Death",
+        "killer": "global",
+        "tier": "b",
+        "type": ["hex", "exposed"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "insidious",  
+        "name": "Insidious",
+        "killer": "global",
+        "tier": "b",
+        "type": ["stealth"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "irongrasp",  
+        "name": "Iron Grasp",
+        "killer": "global",
+        "tier": "b",
+        "type": ["hook"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "monstrous",  
+        "name": "Scourge Hook: Monstrous Shrine",
+        "killer": "global",
+        "tier": "b",
+        "type": ["hook"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "sloppy",  
+        "name": "Sloppy Butcher",
+        "killer": "global",
+        "tier": "b",
+        "type": ["chase", "healing"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "spies",  
+        "name": "Spries from the Shadows",
+        "killer": "global",
+        "tier": "b",
+        "type": ["info", "chase"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "unrelenting",  
+        "name": "Unrelenting",
+        "killer": "global",
+        "tier": "b",
+        "type": ["chase"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "whispers",  
+        "name": "Whispers",
+        "killer": "global",
+        "tier": "b",
+        "type": ["info"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "thrill",  
+        "name": "Hex: Thrill of the Hunt",
+        "killer": "global",
+        "tier": "b",
+        "type": ["hex"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
+    },
+    {
+        "id": "shatteredhope",  
+        "name": "Shattered Hope",
+        "killer": "global",
+        "tier": "b",
+        "type": ["hex"],
+        "banned": false,
+        "unlocked": false,
+        "usable": false,
+        "combo": []
     }
   ]
   
